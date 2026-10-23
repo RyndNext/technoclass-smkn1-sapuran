@@ -35,3 +35,25 @@
  │ nama        │
  │ tahun       │
  └─────────────┘
+CLASSES
+     │
+     ▼
+MEETINGS
+     │
+     ▼
+MATERIALS
+     │
+     ▼
+ASSIGNMENTS
+     │
+     ▼
+SUBMISSIONS
+1 Class
+   └── banyak Student
+
+1 Meeting
+   ├── banyak Materi
+   ├── banyak LKPD
+   └── banyak Penilaian
+
+   
